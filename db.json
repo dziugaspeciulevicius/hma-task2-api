@@ -12,13 +12,13 @@
             "comments": [
                 {
                     "key": 1,
-                    "name": 'test',
-                    "text": 'I really like mushroom pizza',
+                    "name": "test",
+                    "text": "I really like mushroom pizza",
                 },
                 {
                     "key": 2,
-                    "name": 'Jeff',
-                    "text": 'Really easy to follow and make this recipe',
+                    "name": "Jeff",
+                    "text": "Really easy to follow and make this recipe",
                 },
             ]
         },
@@ -31,8 +31,8 @@
             "comments": [
                 {
                     "key": 1,
-                    "name": 'Dziugas',
-                    "text": 'Italian pizza is the best',
+                    "name": "Dziugas",
+                    "text": "Italian pizza is the best",
                 },
             ]
         },
