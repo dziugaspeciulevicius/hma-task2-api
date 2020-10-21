@@ -11,14 +11,14 @@
             "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!",
             "comments": [
                 {
-                    key: 1,
-                    name: 'test',
-                    text: 'I really like mushroom pizza',
+                    "key": 1,
+                    "name": 'test',
+                    "text": 'I really like mushroom pizza',
                 },
                 {
-                    key: 2,
-                    name: 'Jeff',
-                    text: 'Really easy to follow and make this recipe',
+                    "key": 2,
+                    "name": 'Jeff',
+                    "text": 'Really easy to follow and make this recipe',
                 },
             ]
         },
@@ -30,9 +30,9 @@
             "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!",
             "comments": [
                 {
-                    key: 1,
-                    name: 'Dziugas',
-                    text: 'Italian pizza is the best',
+                    "key": 1,
+                    "name": 'Dziugas',
+                    "text": 'Italian pizza is the best',
                 },
             ]
         },
