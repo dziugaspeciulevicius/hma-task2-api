@@ -8,63 +8,72 @@
             "recipe_id": 1,
             "image": "https://cancan.lt/upload/products_pictures/thumb.grybu.png",
             "name": "Mushrooms pizza",
-            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!"
+            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!",
+            "comments": {}
         },
         {
             "category_id": 1,
             "recipe_id": 2,
             "image": "https://cancan.lt/upload/products_pictures/thumb.italiska.png",
             "name": "Italian pizza",
-            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!"
+            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!",
+            "comments": {}
         },
         {
             "category_id": 1,
             "recipe_id": 3,
             "image": "https://cancan.lt/upload/products_pictures/thumb.jaunimo.png",
             "name": "Youth pizza",
-            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!"
+            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!",
+            "comments": {}
         },
         {
             "category_id": 1,
             "recipe_id": 4,
             "image": "https://cancan.lt/upload/products_pictures/thumb.havaju.png",
             "name": "Hawaii  pizza",
-            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!"
+            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!",
+            "comments": {}
         },
                 {
             "category_id": 1,
             "recipe_id": 5,
             "image": "https://cancan.lt/upload/products_pictures/thumb.saliami-1.jpg",
             "name": "Salami pizza",
-            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!"
+            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!",
+            "comments": {}
         },
         {
             "category_id": 1,
             "recipe_id": 6,
             "image": "https://cancan.lt/upload/products_pictures/thumb.paprastoji.png",
             "name": "Plain pizza",
-            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!"
+            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!",
+            "comments": {}
         },
         {
             "category_id": 1,
             "recipe_id": 7,
             "image": "https://cancan.lt/upload/products_pictures/thumb.kaimiska.png",
             "name": "Rustica pizza",
-            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!"
+            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!",
+            "comments": {}
         },
         {
             "category_id": 1,
             "recipe_id": 8,
             "image": "https://cancan.lt/upload/products_pictures/thumb.sicilijos-1.jpg",
             "name": "Sicilian pizza",
-            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!"
+            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!",
+            "comments": {}
         },
         {
             "category_id": 1,
             "recipe_id": 9,
             "image": "https://cancan.lt/upload/products_pictures/thumb.meksikietiska.png",
             "name": "Mexicana pizza",
-            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!"
+            "description": "Even a novice cook can master the art of pizza with our simple step-by-step guide. Bellissimo!",
+            "comments": {}
         }
       ]
     },
@@ -77,21 +86,24 @@
                 "recipe_id": 10,
                 "image": "https://cancan.lt/upload/products_pictures/thumb.104.jpg",
                 "name": "Strudel with curd and peachesa",
-                "description": "Bake an impressive dinner party dessert with minimum fuss – these chocolate puddings, also known as chocolate fondant or lava cake, have a lovely gooey centre"
+                "description": "Bake an impressive dinner party dessert with minimum fuss – these chocolate puddings, also known as chocolate fondant or lava cake, have a lovely gooey centre",
+                "comments": {}
             },
             {
                 "category_id": 2,
                 "recipe_id": 11,
                 "image": "https://cancan.lt/upload/products_pictures/thumb.Kar%C5%A1tas%20obuoli%C5%B3%20pyrgas.jpg",
                 "name": "Hot apple cruble",
-                "description": "Bake an impressive dinner party dessert with minimum fuss – these chocolate puddings, also known as chocolate fondant or lava cake, have a lovely gooey centre"
+                "description": "Bake an impressive dinner party dessert with minimum fuss – these chocolate puddings, also known as chocolate fondant or lava cake, have a lovely gooey centre",
+                "comments": {}
             },
             {
                 "category_id": 2,
                 "recipe_id": 12,
                 "image": "https://cancan.lt/upload/products_pictures/thumb.%C5%A0okoladinis-sufl%C4%97-pyragas.jpg",
                 "name": "Chocolate souffle",
-                "description": "Bake an impressive dinner party dessert with minimum fuss – these chocolate puddings, also known as chocolate fondant or lava cake, have a lovely gooey centre"
+                "description": "Bake an impressive dinner party dessert with minimum fuss – these chocolate puddings, also known as chocolate fondant or lava cake, have a lovely gooey centre",
+                "comments": {}
             }
         ]   
     }    
